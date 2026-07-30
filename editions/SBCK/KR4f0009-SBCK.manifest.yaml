@@ -29,7 +29,7 @@ assets:
   - {seq: 9, filename: KR4f0009_009-SBCK.yaml, hash: 'sha256:c0f7b0bf3bc50bca1abd7874b0e978ca79f441fdb896dd804cd536707f4d6107'}
   - {seq: 10, filename: KR4f0009_010-SBCK.yaml, hash: 'sha256:b92afff55e74c5d7d401a8a36709f9968e3c32d1e4abcc1a832e40c78be60f82'}
   - {seq: 11, filename: KR4f0009_011-SBCK.yaml, hash: 'sha256:1b9433ab16440813def631bc10ef265cea8cc744eb69e85ed7e982900a2ac3bf'}
-  - {seq: 12, filename: KR4f0009_012-SBCK.yaml, hash: 'sha256:c942798c8322c13e8d66b294d46115e3814eae154f52ada55c1c74e1156e9d4c'}
+  - {seq: 12, filename: KR4f0009_012-SBCK.yaml, hash: 'sha256:0b26b13e76b06fc24cbe35d04de2194dce4387c0e07a96c8c5a794f28ec5e31b'}
   - {seq: 13, filename: KR4f0009_013-SBCK.yaml, hash: 'sha256:644df8f5bdc5e3553551babcd583c36409d99bd2392bb5bf887f5aa8b648ccc8'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR4f0009_000-SBCK.markers.yaml, hash: 'sha256:9388bb713cd0cf143020a8928db3f2086a9667c93b0f218542cbc176cb87900b'}
@@ -44,7 +44,7 @@ assets:
   - {seq: 9, role: markers, filename: assets/KR4f0009_009-SBCK.markers.yaml, hash: 'sha256:4bee48d0f2ecb8b84d6338592c0636a5b6f75faf9c1adbd83fd021b2a31f7d75'}
   - {seq: 10, role: markers, filename: assets/KR4f0009_010-SBCK.markers.yaml, hash: 'sha256:5bc11df00deb5c1e13e64209177a75acb377105771dbf31effd9663aae218590'}
   - {seq: 11, role: markers, filename: assets/KR4f0009_011-SBCK.markers.yaml, hash: 'sha256:dcb06d7da916abf491786fa5e712c7f86936301cde54e0f06ed92fea6f45e749'}
-  - {seq: 12, role: markers, filename: assets/KR4f0009_012-SBCK.markers.yaml, hash: 'sha256:48431c61e0fe43e9d763f68e60469bdf9ce26c3e56b5e24346ebc6845be8139b'}
+  - {seq: 12, role: markers, filename: assets/KR4f0009_012-SBCK.markers.yaml, hash: 'sha256:521c8dbd029e5128b62c89500e331a500fe6eb9e9427bf912498c8e8f7c1afc1'}
   - {seq: 13, role: markers, filename: assets/KR4f0009_013-SBCK.markers.yaml, hash: 'sha256:4c378347c896205e61b07d2d745b670fd3da94f064971cc5fd31639d61d4eb77'}
 table_of_contents:
 - ref:
@@ -172,8 +172,8 @@ table_of_contents:
     marker_id: KR4f0009_SBCK_012-1a
     span:
     - body
-    - 0
-    - 11726
+    - 334
+    - 12060
   label: juan 012
   type: section
   level: 1
@@ -187,4 +187,4 @@ table_of_contents:
   label: juan 013
   type: section
   level: 1
-hash: sha256:3f0c349d77207c141c41a4caae13417af28e6a9b1da348b1f1862824928969de
+hash: sha256:82fe01a8aeb9b9319e83763c50f07feb2c83987c0c886e87cda48b922e62335a
